@@ -1,0 +1,15 @@
+body {
+  font: 14px "Handglobes", Helvetica, Arial, sans-serif;
+  
+}
+
+header {
+  box-shadow: .1em .1em 1em #848587;
+}
+
+#world-map {
+  position: relative;
+  width: 95%;
+  width: 100vw;
+  height: 80vh;
+}
